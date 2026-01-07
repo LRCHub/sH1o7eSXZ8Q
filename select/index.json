@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "真冬の帰り道 - 07' Remastering",
+  "base_artist": "広瀬香美",
+  "createdAt": "2026-01-07T15:32:03.040719Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "真冬の帰り道",
+      "artist": "Kohmi Hirose",
+      "has_synced": true,
+      "path": "select/01_真冬の帰り道_Kohmi_Hirose.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "真冬の帰り道 - 07' Remastering",
+      "artist": "Kohmi Hirose",
+      "has_synced": true,
+      "path": "select/02_真冬の帰り道_-_07'_Remastering_Kohmi_Hirose.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "真冬の帰り道",
+      "artist": "広瀬香美",
+      "has_synced": true,
+      "path": "select/03_真冬の帰り道_広瀬香美.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "真冬の帰り道",
+      "artist": "Kohmi Hirose",
+      "has_synced": true,
+      "path": "select/04_真冬の帰り道_Kohmi_Hirose.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "真冬の帰り道",
+      "artist": "広瀬 香美",
+      "has_synced": false,
+      "path": "select/pl_01_真冬の帰り道_広瀬_香美.txt"
+    }
+  ]
+}
